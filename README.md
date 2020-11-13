@@ -1,0 +1,1 @@
+# symfony-test-service-injector-trait
